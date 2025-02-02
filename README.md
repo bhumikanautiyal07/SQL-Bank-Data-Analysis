@@ -37,17 +37,6 @@ Challenges Faced and Solutions:
 ![image](https://github.com/vbhatsaccnt/SQL_Bank-Loan-Data-Analysis/assets/67544433/dbc5e16e-c74e-4a45-921d-2cd23b8b2fb9)
 ![image](https://github.com/vbhatsaccnt/SQL_Bank-Loan-Data-Analysis/assets/67544433/bfc3642c-fe0e-44f7-ab2f-193fadb64048)
 
-## Future Work
 
-This project serves as a foundation for further analysis. Future work may include predictive modeling, additional feature engineering, and exploring external factors influencing loan approval.
 
-## Contact
 
-For any questions or collaboration opportunities, feel free to reach out:
-
-- Email: bhatvikas612@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/vikas-bhat-a89635116/
-
-Thank you for exploring the Bank Loan Data Analysis project!
-
-Vikas Bhat.
